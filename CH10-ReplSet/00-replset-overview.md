@@ -8,5 +8,5 @@ Google GFS的论文一出基本上奠定了3副本机制在分布式存储系统
 ### mongodb副本集剖析
 与mongodb副本集实现相对应的核心抽象类为ReplicationCoordinator，实现类为ReplicationCoordinatorImpl。副本集实现的功能可以用以下图来概括：
 
-![副本集功能实现图](https://github.com/JevonQ/deepdiveintomongodb/blob/master/pics/10replset/ReplicationCoordinator_Overview.png)
+![副本集功能实现图](../pics/10replset/ReplicationCoordinator_Overview.png)
 
